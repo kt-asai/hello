@@ -1,4 +1,4 @@
-module github.com/kt-asai/hello/v2
+module github.com/kt-asai/hello
 
 go 1.17
 
